@@ -1,7 +1,7 @@
 {
   "maintenance": false,
   "maintenance_message": "Bonjour",
-  "maintenance_until": "2026-05-22T13:30:00+02:00",
+  "maintenance_until": "2026-05-22T14:30:00+02:00",
   "min_version": "1.6.1",
   "latest_version_ios": "1.6.1",
   "latest_version_android": "1.7.0"
